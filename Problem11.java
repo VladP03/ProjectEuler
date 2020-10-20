@@ -27,7 +27,7 @@ In the 20×20 grid below, four numbers along a diagonal line have been marked in
         What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid?
 */
 
-public class Main {
+public class Problem11 {
 
     public static long [][] convertToMatrix (String pattern, int lines, int columns) {
 
